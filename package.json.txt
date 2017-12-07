@@ -1,0 +1,8 @@
+{
+  "name": "Yukari",
+  "version": "1.0.0",
+  "description": "Um Panzer Bot Experimental",
+  "main": "bot.js",
+  "author": "Sonderkraftfahrzeug",
+  "dependencies": {}
+}
